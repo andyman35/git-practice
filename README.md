@@ -1,3 +1,3 @@
 # git-practice
-Practice time for git
+Practice time for git.
 Hello world!
